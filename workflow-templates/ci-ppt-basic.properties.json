@@ -1,0 +1,10 @@
+{
+    "name": "Simple Workflow - PPT Repository",
+    "description": "CI starter workflow.",
+    "iconName": "ppt-workflow",
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
